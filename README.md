@@ -5,3 +5,5 @@ ao rodar o codigo será gerado uma matriz 3x3 e por input via console é possive
 o jogo não pode ser jogado sozinho visto que no projeto não era requisitado e nem permitido a implementação da mesma
 
 para fazer jogadas devem ser dadas as entradas das coordenadas de linha (1 a 3) e coluna (1 a 3)
+
+o codigo é uma boa demonstração do conhecimento de matrizes e vetores em java
