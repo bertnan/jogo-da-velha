@@ -1,18 +1,7 @@
-## Getting Started
+este codigo foi um projeto da aula de Linguagem de Programação, do primeiro periodo do curso de Sistemas de informação no IFF Campos Centro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ao rodar o codigo será gerado uma matriz 3x3 e por input via console é possivel fazer jogadas, alternando entre X e O
 
-## Folder Structure
+o jogo não pode ser jogado sozinho visto que no projeto não era requisitado e nem permitido a implementação da mesma
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+para fazer jogadas devem ser dadas as entradas das coordenadas de linha (1 a 3) e coluna (1 a 3)
